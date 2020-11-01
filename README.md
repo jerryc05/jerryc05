@@ -2,9 +2,13 @@
 
 More on this later ... 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryc05&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerryc05&count_private=true&show_icons=true&theme=chartreuse-dark" >
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryc05&langs_count=10&layout=compact&theme=chartreuse-dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryc05&langs_count=10&layout=compact&theme=chartreuse-dark" >
+</p>
 
 <!--
 **jerryc05/jerryc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
