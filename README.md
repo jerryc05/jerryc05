@@ -10,6 +10,10 @@ More on this later ... 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryc05&langs_count=10&layout=compact&theme=chartreuse-dark" >
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=827e4028-b131-4884-b957-78b143742719&theme=chartreuse-dark" >
+</p>
+
 <!--
 **jerryc05/jerryc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
