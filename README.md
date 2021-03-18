@@ -11,7 +11,7 @@ More on this later ... 👋
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=827e4028-b131-4884-b957-78b143742719&theme=chartreuse-dark" >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?theme=chartreuse-dark&layout=compact&username=jerryc05" >
 </p>
 
 <!--
