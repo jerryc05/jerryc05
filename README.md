@@ -1,6 +1,8 @@
 ### Hi there 👋, this is @jerryc05.
 
-More on this later ... 👋
+Currently a student insterested in Software Development and Software Engineering, especially __Fullstack development__.
+
+Look around for some of the works/projects I joined and enjoyed below ...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jerryc05&count_private=true&show_icons=true&theme=chartreuse-dark" >
