@@ -1,8 +1,15 @@
-### Hi there 👋, this is @jerryc05.
+## Hi there 👋, this is @jerryc05.
 
-Currently a student insterested in Software Development and Software Engineering, especially __Fullstack development__.
+I am a Computer Science 💻 major student, a certified 🏅 AWS Developer, and a cat 🐈 person!
+
+I have strong insterest in Software Development (__Fullstack development__) and Software Engineering (__Research__).
+
+### Artifacts 
+Interested in getting a copy of my [resume](https://github.com/jerryc05/jerryc05/releases/download/latest/Ziyan_Chen_Work_Resume.pdf), [certificates](https://github.com/jerryc05/jerryc05/releases/download/latest/AWS.Certified.Developer.-.Associate.certificate.pdf), and all other awesome stuff? Check all the release artifacts [here](https://github.com/jerryc05/jerryc05/releases/tag/latest)!
 
 Look around for some of the works/projects I joined and enjoyed below ...
+
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jerryc05&count_private=true&show_icons=true&theme=chartreuse-dark" >
