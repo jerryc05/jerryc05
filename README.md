@@ -2,10 +2,10 @@
 
 I am a Computer Science 💻 major student, a certified 🏅 AWS Developer, and a cat 🐈 person!
 
-I have strong insterest in Software Development (__Fullstack development__) and Software Engineering (__Research__).
+I am a quick learner, and I have strong insterest in Software Development (__Fullstack development__) and Software Engineering (__Research__).
 
 ### Artifacts 
-Interested in getting a copy of my [resume](https://github.com/jerryc05/jerryc05/releases/download/latest/Ziyan_Chen_Work_Resume.pdf), [certificates](https://github.com/jerryc05/jerryc05/releases/download/latest/AWS.Certified.Developer.-.Associate.certificate.pdf), and all other awesome stuff? Check all the release artifacts [here](https://github.com/jerryc05/jerryc05/releases/tag/latest)!
+Interested in getting a copy of my up-to-date [resume](https://github.com/jerryc05/jerryc05/releases/download/latest/Ziyan_Chen_Work_Resume.pdf), [certificates](https://github.com/jerryc05/jerryc05/releases/download/latest/AWS.Certified.Developer.-.Associate.certificate.pdf), and all other awesome stuff? Check all the release artifacts [here](https://github.com/jerryc05/jerryc05/releases/tag/latest)!
 
 Look around for some of the works/projects I joined and enjoyed below ...
 
