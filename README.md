@@ -23,6 +23,9 @@ Look around for some of the works/projects I joined and enjoyed below ...
   <img src="https://github-readme-stats.vercel.app/api/wakatime?theme=chartreuse-dark&layout=compact&username=jerryc05" >
 </p>
 
+### Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8V5XZ9)
+
 <!--
 **jerryc05/jerryc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
